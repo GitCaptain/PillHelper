@@ -1,0 +1,1 @@
+python3 ./source/pill_helper.py --token "$(cat secret/tg-token)"
